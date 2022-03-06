@@ -1,4 +1,4 @@
-Project 1
+Project 2
 Author: Justin Cheng
 Class: ENPM 662 - Dr. Reza Monfaredi
 
